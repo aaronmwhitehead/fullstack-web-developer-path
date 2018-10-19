@@ -3,7 +3,8 @@ This page outlines my progress [shovanch's Full Stack Web Developer Path guide](
 
 ------
 
-## [Coding log](log.md)
+## [100 Days of Code log](log.md)
+## [Javascript30 log](js30.md)
 
 ## The Fundamentals
 
