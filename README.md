@@ -1,5 +1,5 @@
 # Full Stack Web Developer Path
-This page outlines my progress in [shovanch](https://github.com/shovanch)'s Full Stack Web Developer Path guide
+This page outlines my progress in [shovanch's Full Stack Web Developer Path guide](https://github.com/shovanch)
 
 ------
 
