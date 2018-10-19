@@ -1,4 +1,4 @@
-# 💯 100 Days Of Code - Log 
+# 100 Days Of Code - Log 
 
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
