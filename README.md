@@ -10,7 +10,7 @@ This page outlines my progress [shovanch's Full Stack Web Developer Path guide](
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
+| 	&#128293; | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 |  | Course | Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
