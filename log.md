@@ -14,12 +14,12 @@ Day : 1 - 10/22/2018
 
 **Thing(s) learned**: Learned to create windows, perform animations, and wait for user input on the terminal screen. 
 
-Day : 2
+Day : 2 - 10/23/2018
 ------
-**Today's Progress** : 
+**Today's Progress** : Finished JS30 day 2. Made a simple drumkit using JS and HTML5 <audio> tags. 
 
-**Link to work** :
+**Link to work** : [JSDrumkit](https://aaronmwhitehead.github.io/JavaScript30/)
 
-**Thing(s) learned**: 
+**Thing(s) learned**: I learned about event listeners, CSS transitions, data-key attributes, and audio tags. 
 
 
