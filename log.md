@@ -22,4 +22,43 @@ Day : 2 - 10/23/2018
 
 **Thing(s) learned**: I learned about event listeners, CSS transitions, data-key attributes, and audio tags. 
 
+Day : 3 - 10/24/2018
+------
+**Today's Progress** : Finished JS30 day 3. Made a simple analog clock using mainly CSS transitions and JS time methods. 
+
+**Link to work** : [JS30 Repo](https://aaronmwhitehead.github.io/JavaScript30/)
+
+**Thing(s) learned**: I learned to change the origin of rotation of a div. Learned to add transitions and trigger the transition using the setInterval() method in JS. 
+
+Day : 4 - 10/25/2018
+------
+**Today's Progress** : Switched from my Ubuntu distro to MacOS. Spent the hour setting up my new coding environment. 
+
+**Link to work** : No work
+
+**Thing(s) learned**: Learned to add a custom terminal welcome using figlet. My terminal now starts with "Howdy Aaron" in large ASCII art letters. 
+
+Day : 5 - 10/26/2018
+------
+**Today's Progress** :  Started working on my online portfolio. Code will be pushed to GitHub soon. 
+
+**Link to work** : TBA
+
+**Thing(s) learned**: Gained a working understanding of CSS Grid.  
+
+Day : 6 - 10/27/2018
+------
+**Today's Progress** : 
+
+**Link to work** : 
+
+**Thing(s) learned**:  
+
+Day : 7 - 10/28/2018
+------
+**Today's Progress** : 
+
+**Link to work** : 
+
+**Thing(s) learned**: 
 
