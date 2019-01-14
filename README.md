@@ -48,7 +48,7 @@ This page outlines my progress [shovanch's Full Stack Web Developer Path guide](
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) (Paid) OR [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
+|  &#128293; | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) |   |    |
 |   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
