@@ -12,7 +12,7 @@ This page outlines my progress [shovanch's Full Stack Web Developer Path guide](
 | :------: | ------ | ------ | ------------ | :-------: |
 | 	&#128293; | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 | 	&#128293; | Course | Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
-|   &#128293; | Project | Front End Project - Build Your Portfolio  |    |
+|   &#128293; | Project | Front End Project - Build Your Portfolio  |  [link](https://aaronmwhitehead.github.io)  |
 | &#128293; | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 | &#128293; | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |  &#128293; | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
